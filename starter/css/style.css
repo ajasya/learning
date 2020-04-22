@@ -1,0 +1,42 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.red-box{
+
+  margin: 20px;
+  padding: 200vh;
+  background-color: red;
+  position: absolute;
+}
+
+.blue-box{
+  width: 100px;
+  padding-top: 90px;
+  margin: 40px 20px;
+  background-color: blue;
+  position: relative;
+
+}
+.green-box{
+  width: 100px;
+  margin: 20px 20px;
+  padding-top: 90px;
+  background-color: green;
+  position: relative;
+}
